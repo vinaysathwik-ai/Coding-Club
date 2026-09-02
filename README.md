@@ -5,8 +5,8 @@
 
 * **Course:** B.Tech in Computer Science and Engineering
 * **Position:** Member
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/motakatla-vinay-sathwik-387b94392/)
-* **LeetCode:** [Your LeetCode](https://leetcode.com/u/M_Vinay_Sathwik/)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/motakatla-vinay-sathwik-387b94392/)
+* **LeetCode:** [LeetCode](https://leetcode.com/u/M_Vinay_Sathwik/)
 
 ## Description
 
